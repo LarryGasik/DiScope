@@ -1,0 +1,6 @@
+@DiScopes_HostAddress = http://localhost:5069
+
+GET {{DiScopes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
